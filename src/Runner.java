@@ -30,7 +30,7 @@ public class Runner {
                 totalExpenses += trip.getTotal();
             }
         }
-        System.out.println("сумму общих расходов: " + totalExpenses);
+        System.out.println("сумму общих расходов = " + totalExpenses);
         
 
     }
