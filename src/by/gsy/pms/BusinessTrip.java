@@ -6,6 +6,10 @@ public class BusinessTrip {
     private int transport;
     private int days;
 
+    public BusinessTrip() {
+        super();
+    }
+    
     public BusinessTrip(String account, int transport, int days) {
         this.account = account;
         this.transport = transport;
