@@ -40,7 +40,7 @@ public class BusinessTrip {
         this.days = days;
     }
 
-    private int getTotal() {
+    public int getTotal() {
         return transport + RATE * days;
     }
 
