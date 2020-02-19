@@ -4,12 +4,12 @@ import by.gsy.pms.Converter;
 public class Runner {
     public static void main(String[] args){
         BusinessTrip[] trips = {
-                new BusinessTrip("Anton", 250, 5),
-                new BusinessTrip("Andrey", 157, 2),
+                new BusinessTrip("Anton", 2600, 5),
+                new BusinessTrip("Andrey", 1570, 2),
                 null,
-                new BusinessTrip("Vitya", 512, 7),
-                new BusinessTrip("Alena", 935, 10),
-                new BusinessTrip("Kate", 120, 6),
+                new BusinessTrip("Vitya", 5120, 7),
+                new BusinessTrip("Alena", 9350, 10),
+                new BusinessTrip("Kate", 1200, 6),
                 new BusinessTrip()
         };
 
