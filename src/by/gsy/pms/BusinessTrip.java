@@ -1,4 +1,5 @@
 package by.gsy.pms;
+import static by.gsy.pms.Converter.convertMoney;
 
 public class BusinessTrip {
     private static final int RATE = 25000;
@@ -9,8 +10,9 @@ public class BusinessTrip {
     public BusinessTrip() {
         super();
     }
-    
+
     public BusinessTrip(String account, int transport, int days) {
+        super();
         this.account = account;
         this.transport = transport;
         this.days = days;
@@ -45,19 +47,17 @@ public class BusinessTrip {
     }
 
     public void show() {
-        System.out.println("RATE: " + convert(RATE) + "\n"
+        System.out.println("RATE: " + convertMoney(RATE) + "\n"
                 + "account: " + account + "\n"
-                + "transport: " + convert(transport) + "\n"
+                + "transport: " + convertMoney(transport) + "\n"
                 + "days: " + days + "\n"
-                + "total: " + convert(getTotal()) + "\n\n");
+                + "total: " + convertMoney(getTotal()) + "\n\n");
     }
 
     public String toString() {
-        return account + "; " + transport + "; " + days + "; " + convert(getTotal());
+        return account + "; " + convertMoney(transport) + "; " + days + "; " + convertMoney(getTotal());
     }
 
-    private static String convert(int val) {
-        return val/100 + "." + (val%100)/10 + val%10;
-    }
+
 
 }
