@@ -53,29 +53,7 @@ public class Drugstore {
 
 
 
-   /*public int  compareTo(Drugstore that){
-       return lastName.compareTo(that.getLastName());
-        //int compareMonthlyProfit = ((Drugstore) compareDrugstore).getMonthlyProfit();
-        //return this.monthlyProfit - compareDrugstore.getMonthlyProfit();
-        //return compareMonthlyProfit - this.monthlyProfit;
-    }
 
-    */
-
-
-
-    /*
-     public String toString() {
-     return lastName + ";" + license + ";" + profit/100 + "." + profit/10%10 + profit%10 ;
-    }
-     */
-
-
-    /*public int compareTo(Drugstore o) {
-        int result = this.lastName.compareTo(o.lastName);
-        //return lastName.compareTo(o.getLastName());
-        return result;
-    }
 
 
 
