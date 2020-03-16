@@ -1,6 +1,4 @@
 package by.gsu.by;
-
-import java.util.Arrays;
 import java.util.Comparator;
 
 public class SortByProfit implements Comparator<Drugstore> {

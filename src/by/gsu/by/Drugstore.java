@@ -8,12 +8,11 @@ public class Drugstore {
     private String license;
     private int monthlyProfit;
 
-    public Drugstore() {
-        super();
+    public Drugstore(){
+        this(null, null, 0);
     }
 
     public Drugstore(String lastName, String license, int monthlyProfit) {
-        super();
         this.lastName = lastName;
         this.license = license;
         this.monthlyProfit = monthlyProfit;
@@ -46,13 +45,8 @@ public class Drugstore {
 
 
     public String toString() {
-        return lastName + ";" + license + ";" + convertMoney(monthlyProfit);
+        return lastName + "; " + license + "; " + convertMoney(monthlyProfit);
     }
-
-
-
-
-
 
 
 

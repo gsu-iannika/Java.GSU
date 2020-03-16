@@ -1,5 +1,4 @@
 package by.gsu.by;
-
 import java.text.DecimalFormat;
 
 public class Convert {

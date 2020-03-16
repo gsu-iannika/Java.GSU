@@ -1,6 +1,4 @@
 package by.gsu.by;
-import by.gsu.by.Drugstore;
-
 import java.util.Comparator;
 
 
