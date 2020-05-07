@@ -1,51 +1,47 @@
+
+
+import by.gsu.pms.FactoryDiscount;
 import by.gsu.pms.Purchase;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.Locale;
+import java.io.IOException;
 import java.util.Scanner;
 
-import static by.gsu.pms.StringFormat.valueToString;
-
 public class Runner {
-    public static void main (String[] args) {
-        Scanner scan = null;
-        try {
-            scan = new Scanner(new FileReader("src\\in.txt"));
-            scan.useLocale(Locale.ENGLISH);
-            int GENERAL_PURCHASE = scan.nextInt();
-           // Purchase purchase = new Purchase();
-            Purchase[] purchases = new Purchase[GENERAL_PURCHASE];
+    public static void main(String[] args) throws IOException {
+        Purchase[] purchases = new Purchase[6];
+        FileReader file = new FileReader("src/in.txt");
+        Scanner scan = new Scanner(file);
 
-            for(int i = 0; i < GENERAL_PURCHASE; i++){
-                purchases[i] = new Purchase(scan);
+        double maxCost = 0;
+        Purchase maxPurchase = new Purchase();
+
+        for (int i = 0; i < purchases.length; i++) {
+            Purchase purchase = purchases[i];
+            String st = scan.nextLine();
+
+            purchases[i] = new FactoryDiscount().Factory(st);
+
+
+            System.out.println(purchases[i]);
+
+
+            if (purchases[i].getCost() > maxCost) {
+                maxCost = purchases[i].getCost();
+                maxPurchase = purchases[i];
             }
-            printPurchases(purchases);
 
-            int totalCost = 0;
-            int maxCost = 0;
-            for (Purchase p: purchases) {
-                if(p.getCost() > maxCost){
-                    maxCost = p.getCost();
+
+            for (int j = 0; j < i; j++){
+                if (purchases[i] == purchases[j]){
+                    System.out.println("Duplicates: " + purchases[i]);
                 }
-                totalCost += p.getCost();
-            }
-            System.out.println("\nTotal cost: " + valueToString(totalCost));
-            System.out.println("\nMax cost: " + valueToString(maxCost));
-        }
-        catch(FileNotFoundException ex) {
-            System.out.println("Input file is not found\n");
-        }
-        finally {
-            if(scan != null) {
-                scan.close();
             }
         }
-    }
+        file.close();
 
-    private static void printPurchases(Purchase[] purchases) {
-        for(Purchase purchase:purchases) {
-            System.out.println(purchase);
-        }
+        //4
+        System.out.println("Max cost: " + maxPurchase);
+
     }
 }

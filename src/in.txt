@@ -1,7 +1,6 @@
-6
-coffee 2500 10
-coffee 2180 9
-coffee 3500 14
-coffee 5600 25
-coffee 3300 14
-coffee 9940 32
+Purchase coffee 2.5 10
+Purchase coffee 2.18 9
+Discount coffee 3.5 3 14
+Discount coffee 3 6 12
+BigDiscount coffee 3.4 7 4 15
+BigDiscount coffee 4.9 5 2 10
