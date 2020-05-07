@@ -40,7 +40,7 @@ public class Runner {
         }
         file.close();
 
-        //4
+       
         System.out.println("Max cost: " + maxPurchase);
 
     }
