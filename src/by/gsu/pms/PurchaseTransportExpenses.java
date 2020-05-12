@@ -12,4 +12,9 @@ public class PurchaseTransportExpenses extends AbstractPurchase{
     public double getCost() {
         return getCommodity().getPrice() * getUnits() + transportExpenses;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + "; " + transportExpenses ;
+    }
 }

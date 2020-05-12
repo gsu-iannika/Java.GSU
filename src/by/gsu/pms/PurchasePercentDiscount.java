@@ -20,4 +20,12 @@ public class PurchasePercentDiscount extends AbstractPurchase{
     public double getCost() {
         return getCommodity().getPrice() * getUnits() * (100 - discount) / 100;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + "; " + discount ;
+    }
+
 }
+
+
