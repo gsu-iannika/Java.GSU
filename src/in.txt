@@ -1,0 +1,14 @@
+daily-rate = 25000
+indices = 1;2;15;4
+account01 = Kate
+transport01 = 500
+days01 = 5
+account02 = Maria
+transport02 = 250
+days02 = 3
+account15 = Evgen
+transport15 = 300
+days15 = 1
+account04 = Kolya
+transport04 = 100
+days04 = 3
