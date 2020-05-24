@@ -16,19 +16,19 @@ public class Runner {
             System.out.println(drugstore);
         }
 
-        int sumIncome = 0;
+        int sumMonthlyProfit = 0;
         int count = 0;
         for(Drugstore drugstore : drugstores) {
             try {
-                sumIncome += drugstore.getIncome();
-                if (!drugstore.isLicensed()) {
+                sumMonthlyProfit += drugstore.getMonthlyProfit();
+                if (!drugstore.license()) {
                     count++;
                 }
             } catch (ArithmeticException e) {
                 System.out.println("Error with arithmetic operation");
             }
         }
-        System.out.printf("Общая прибыль - %d, количество аптек без лицензии %d", sumIncome, count);
+        System.out.printf("Общая прибыль - %d, количество аптек без лицензии %d", sumMonthlyProfit, count);
     }
 
     private static Drugstore[] getDrugstoresFrom(Path path) throws IOException {

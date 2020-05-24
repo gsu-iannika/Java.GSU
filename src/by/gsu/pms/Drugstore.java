@@ -3,48 +3,44 @@ package by.gsu.pms;
 import java.io.Serializable;
 
 public class Drugstore implements Serializable {
-    private String ownerLastname;
-    private boolean isLicensed;
-    private int income;
+    private String lastName;
+    private boolean license;
+    private int monthlyProfit;
 
 
-    public Drugstore(String ownerLastname, boolean isLicensed, int income) {
-        this.ownerLastname = ownerLastname;
-        this.isLicensed = isLicensed;
-        this.income = income;
+    public Drugstore(String lastName, boolean license, int monthlyProfit) {
+        this.lastName = lastName;
+        this.license = license;
+        this.monthlyProfit = monthlyProfit;
     }
 
-
-    public String getOwnerLastname() {
-        return ownerLastname;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setOwnerLastname(String ownerLastname) {
-        this.ownerLastname = ownerLastname;
+    public boolean license() {
+        return license;
     }
 
-    public boolean isLicensed() {
-        return isLicensed;
+    public int getMonthlyProfit() {
+        return monthlyProfit;
     }
 
-    public void setLicensed(boolean licensed) {
-        isLicensed = licensed;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
-    public int getIncome() {
-        return income;
+    public void setLicense(boolean license) {
+        this.license = license;
     }
 
-    public void setIncome(int income) {
-        this.income = income;
+    public void setMonthlyProfit(int monthlyProfit) {
+        this.monthlyProfit = monthlyProfit;
     }
 
-    @Override
     public String toString() {
-        return "Drugstore{" +
-                "ownerLastname='" + ownerLastname + '\'' +
-                ", isLicensed=" + isLicensed +
-                ", income=" + income +
-                '}';
+        return lastName + "; " + license + "; " + monthlyProfit;
     }
+
+
 }
