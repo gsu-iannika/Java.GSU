@@ -1,0 +1,10 @@
+ivanov false 78
+ivanova true 58
+bukin false 29
+bukina true 150
+lavrov false 189
+kemrov true 205
+lavrova false 20
+kemrova false 35
+kirov true 48
+patrushev false 89
