@@ -30,6 +30,7 @@ public class Runner {
 
         System.out.println(sqlCommands.displayInformationAboutSouvenirs(5));
         System.out.println(sqlCommands.displayInformationAboutSouvenirsInTheProducedCountry("Белоруссия"));
+        System.out.println(sqlCommands.displayInfoAboutManufacturerWithLowerPrice(15));
 
 
         // widget html
