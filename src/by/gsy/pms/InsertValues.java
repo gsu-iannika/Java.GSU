@@ -21,18 +21,21 @@ public class InsertValues {
 
 		try {
 			// creating INSERT request into DB
-			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Шар предсказаний', '1', '2020-10-25', '15.36'),\" +\n" +
-					"('Брелок Авокадо', '2', '2020-09-28', '5.95')," +
-					"('Подставка под кружку', '4', '2020-10-15', '5.90')," +
-					"('Игрушка-антистресс Скользун', '3', '2020-11-08', '4.73')," +
-					"('Матрёшка \\\"Колобок\\\"', '5', '2020-11-23', '33.84')," +
-					"('Матрёшка \\\"Курочка Ряба\\\"', '5', '2020-11-26', '26.03')");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Шар предсказаний', 1, '2020-10-25', 15.36)");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Брелок Авокадо', 2, '2020-09-28', 5.95)");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Подставка под кружку', 4, '2020-10-15', 5.90)");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Игрушка-антистресс Скользун', 3, '2020-11-08', 4.73)");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Матрёшка \\\"Колобок\\\"', 5, '2020-11-23', 33.84)");
+			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Матрёшка \\\"Курочка Ряба\\\"', 5, '2020-11-26', 26.03)");
 
-			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО \"Новая Идея\"', 'Россия')," +
-                        "('СООО \"Волшебный остров\"', 'Белоруссия')," +
-                        "('ChuangHeng Toys Co. LTD.', 'Китай')," +
-                        "('ИП Давыдова Е.А', 'Белоруссия')," +
-                        "('ООО ТД \"Бэмби\"', 'Россия')");
+
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО \"Новая Идея\"', 'Россия')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('СООО \"Волшебный остров\"', 'Белоруссия')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ChuangHeng Toys Co. LTD.', 'Китай')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ИП Давыдова Е.А', 'Белоруссия')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО ТД \"Бэмби\"', 'Россия')");
+			
+
 			
 
 
