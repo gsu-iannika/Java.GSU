@@ -1,0 +1,961 @@
+[Item{title='Призер Олимпийских игр и чемпионка мира по биатлону подписали провластное письмо спортсменов
+link='https://sport.tut.by/news/biathlon/710217.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/0f/10/sergey_novikov_rtr2aimy.jpg
+guid='https://sport.tut.by/news/biathlon/710217.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 04 Dec 2020 13:15:00 +0300
+}, Item{title='Министр спорта подписал письмо провластных спортсменов. Он - КМС по военному троеборью
+link='https://sport.tut.by/news/aboutsport/710205.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/zamirovskiy/0b/9/01_kovalchuk_probezhka_20180718_zam_tutby_phsl.jpg
+guid='https://sport.tut.by/news/aboutsport/710205.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 04 Dec 2020 12:21:00 +0300
+}, Item{title='Письмо провластных спортсменов «подписал» персонаж Данилы Козловского
+link='https://sport.tut.by/news/aboutsport/710137.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/05/4/vymyshlennyj-futbolist-okazalsja-v-spiske-sportsmenov-podpisavshihsja-za-lukashenko_16070111811376198767.jpg
+guid='https://sport.tut.by/news/aboutsport/710137.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 20:22:00 +0300
+}, Item{title='Динара Алимбекова в третий раз подряд финишировала в топ-8 на КМ по биатлону
+link='https://sport.tut.by/news/biathlon/710136.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/01/f/biatlon_alimbekova_20190211_bur_tutby_phsl-2562-2.jpg
+guid='https://sport.tut.by/news/biathlon/710136.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 20:12:00 +0300
+}, Item{title='Минское «Динамо» впервые за 10 лет обыграло в гостях ЦСКА
+link='https://sport.tut.by/news/hockey/707414.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/07/b/dinamo-cska_20201020_bur_tutby_phsl-8614.jpg
+guid='https://sport.tut.by/news/hockey/707414.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 19:08:00 +0300
+}, Item{title='«Лучше молчите». Гурков эмоционально обратился к спортсменам, подписавшим провластное письмо
+link='https://sport.tut.by/news/aboutsport/710115.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0e/8/gurkov-insta_2.jpg
+guid='https://sport.tut.by/news/aboutsport/710115.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 17:59:00 +0300
+}, Item{title='«Это плевок в лицо белорусскому обществу». В БФСС рассказали о письме провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/710122.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/09/c/arena_20200828_bur_003_photo_2020-08-28_18-11-36.jpg
+guid='https://sport.tut.by/news/aboutsport/710122.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 17:53:00 +0300
+}, Item{title='Сергей Бочарников показал лучший результат в карьере на КМ по биатлону
+link='https://sport.tut.by/news/biathlon/710108.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/00/2/bocharnikov_2019_4.jpg
+guid='https://sport.tut.by/news/biathlon/710108.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 16:55:00 +0300
+}, Item{title='«Третья сестра Груздева». Что пишут в комментариях Соболенко и другим подписавшим провластное письмо
+link='https://sport.tut.by/news/aboutsport/710065.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0f/8/sobolenko_rastyazhka.jpg
+guid='https://sport.tut.by/news/aboutsport/710065.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 13:37:00 +0300
+}, Item{title='Вши, пьяные и антисанитария. В каких условиях находится Ольга Хижинкова на Окрестина
+link='https://sport.tut.by/news/aboutsport/710045.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/04/3/khizhinkova_pitomcy_20200912_bur_tutby_phsl-5852.jpg
+guid='https://sport.tut.by/news/aboutsport/710045.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 13:15:00 +0300
+}, Item{title='Под письмом провластных спортсменов - подписи юных баскетболисток из Гродно. Что говорит облспорт
+link='https://sport.tut.by/news/basketball/710069.html?utm_campaign=news-feed
+description='<
+category='Баскетбол
+domain='https://sport.tut.by/rubric/basketball/
+enclosure='null
+url='https://img.tyt.by/n/regiony/03/a/basketbol_pyatnica_olimpiec.jpg
+guid='https://sport.tut.by/news/basketball/710069.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 13:03:00 +0300
+}, Item{title='Еще три человека заявили, что не подписывали обращение провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/710046.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/00/4/100845504_555816388416649_8410270437246699211_n.jpg
+guid='https://sport.tut.by/news/aboutsport/710046.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 10:57:00 +0300
+}, Item{title='«Зенит» и киевское «Динамо» разгромлены в Лиге чемпионов
+link='https://sport.tut.by/news/football/710011.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/05/3/ronaldu-dinamo-kiev.jpg
+guid='https://sport.tut.by/news/football/710011.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 03 Dec 2020 00:59:00 +0300
+}, Item{title='Глава МИД Чехии высказался о проведении ЧМ-2021 в Беларуси
+link='https://sport.tut.by/news/aboutsport/709996.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/lady.tut.by/10/10/flag_chekhiya.png
+guid='https://sport.tut.by/news/aboutsport/709996.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 19:53:00 +0300
+}, Item{title='Что не так с подписями под письмом провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/709974.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/10/a/arena_20200828_bur_013_photo_2020-08-28_19-44-37.jpg
+guid='https://sport.tut.by/news/aboutsport/709974.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 16:56:00 +0300
+}, Item{title='Футболисты говорят, что не подписывали письмо провластных спортсменов. Но они есть в списке
+link='https://sport.tut.by/news/football/709966.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0c/0/223322hot_1.jpg
+guid='https://sport.tut.by/news/football/709966.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 16:00:00 +0300
+}, Item{title='Со спортсменами, подписавшими письмо за новые выборы, не продлевают контракты
+link='https://sport.tut.by/news/aboutsport/709952.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/10/nataliya_gimnastika_foto_tit.jpg
+guid='https://sport.tut.by/news/aboutsport/709952.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 14:50:00 +0300
+}, Item{title='Появился сайт с письмом провластных спортсменов. Под ним подписались Соболенко, Захаров и другие
+link='https://sport.tut.by/news/aboutsport/709923.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/05/3/screensh343434_1.jpg
+guid='https://sport.tut.by/news/aboutsport/709923.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 13:09:00 +0300
+}, Item{title='58-летний Холифилд вызвал на бой 54-летнего Тайсона
+link='https://sport.tut.by/news/box/709898.html?utm_campaign=news-feed
+description='<
+category='Бокс
+domain='https://sport.tut.by/rubric/box/
+enclosure='null
+url='https://img.tyt.by/n/sport/00/7/kholifild.png
+guid='https://sport.tut.by/news/box/709898.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 11:17:00 +0300
+}, Item{title='Во время матча минского «Динамо» включили «Перемен». И этому есть объяснение
+link='https://sport.tut.by/news/hockey/709896.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/360_foto_video/05/10/na_arene_vklyuchili_peremen.mp4
+guid='https://sport.tut.by/news/hockey/709896.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 11:02:00 +0300
+}, Item{title='Милевский - Хижинковой: «Оля, все мы тебя любим»
+link='https://sport.tut.by/news/aboutsport/709875.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/02/10/olga-khizh_1.jpg
+guid='https://sport.tut.by/news/aboutsport/709875.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 09:52:00 +0300
+}, Item{title='Донецкий «Шахтер» второй раз победил «Реал», «Локомотив» с Лисаковичем уступил «Зальцбургу»
+link='https://sport.tut.by/news/football/709857.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/06/a/shakhter-real-lch.jpg
+guid='https://sport.tut.by/news/football/709857.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 02 Dec 2020 00:59:00 +0300
+}, Item{title='В Cеть попал разговор чиновника, убеждающего отозвать подпись под письмом спортсменов за новые выборы
+link='https://sport.tut.by/news/aboutsport/709845.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/it/07/9/smartfon_telefon_zhenshchina_ruki.jpg
+guid='https://sport.tut.by/news/aboutsport/709845.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 21:25:00 +0300
+}, Item{title='Минское «Динамо» уверенно обыграло в гостях «Нефтехимик»
+link='https://sport.tut.by/news/hockey/709832.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0d/4/dinamo-vityaz_20201126_bur_tutby_phsl-9864.jpg
+guid='https://sport.tut.by/news/hockey/709832.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 18:57:00 +0300
+}, Item{title='БФСС хочет добиться пожизненного запрета на участие Баскова в любых хоккейных мероприятиях
+link='https://sport.tut.by/news/hockey/709823.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/0b/10/khokkey_baskov_20170607_shuk_tutby_phsl_img_8373.jpg
+guid='https://sport.tut.by/news/hockey/709823.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 17:34:00 +0300
+}, Item{title='Белорусский боец, объявленный в розыск, уехал за границу
+link='https://sport.tut.by/news/aboutsport/709799.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/00/1/kudzin-1024x679.jpg
+guid='https://sport.tut.by/news/aboutsport/709799.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 15:44:00 +0300
+}, Item{title='«Эфира не хватит говорить про то, куда мы катимся». Гуренко - о белорусском футболе
+link='https://sport.tut.by/news/football/709797.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/02/5/gurenko-2018-11222.jpg
+guid='https://sport.tut.by/news/football/709797.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 15:27:00 +0300
+}, Item{title='Сербский форвард покинул БАТЭ
+link='https://sport.tut.by/news/football/709791.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/09/8/16.05.2020_bate_slytsk_34.jpg
+guid='https://sport.tut.by/news/football/709791.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 14:26:00 +0300
+}, Item{title='Отменен Рождественский турнир по хоккею
+link='https://sport.tut.by/news/hockey/709777.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/f/lukashenko-oae-6-01-2019-6.jpg
+guid='https://sport.tut.by/news/hockey/709777.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 12:55:00 +0300
+}, Item{title='Голкипер минского «Динамо» назван лучшим вратарем месяца в КХЛ
+link='https://sport.tut.by/news/hockey/709772.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0e/9/dinamo-sochi_20201020_bur_tutby_phsl-8278-2.jpg
+guid='https://sport.tut.by/news/hockey/709772.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 12:34:00 +0300
+}, Item{title='Футбольный клуб из Речицы завоевал право сыграть в «вышке», но есть проблема
+link='https://sport.tut.by/news/football/709771.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0d/0/rechicadrev_futbol_sputnik.jpg
+guid='https://sport.tut.by/news/football/709771.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 12:33:00 +0300
+}, Item{title='Белорусские судьи назначены на матч «Барселоны» в Лиге чемпионов
+link='https://sport.tut.by/news/football/709748.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/01/4/kulbakov_alexei_2014.jpg
+guid='https://sport.tut.by/news/football/709748.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 11:13:00 +0300
+}, Item{title='«МЮ» победит «ПСЖ», «Динамо» зарубится с ЦСКА, «Арсенал» одолеет «Тоттенхэм». Наши прогнозы
+link='https://sport.tut.by/news/aboutsport/709725.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/os/07/4/tth_parimatch_giphy_01.12.gif
+guid='https://sport.tut.by/news/aboutsport/709725.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 10:05:00 +0300
+}, Item{title='Милевский грубо ответил на призыв поддержать Хижинкову
+link='https://sport.tut.by/news/football/709733.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/09/c/milevskiy_laptev_dinamo_brest.jpg
+guid='https://sport.tut.by/news/football/709733.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 01 Dec 2020 10:04:00 +0300
+}, Item{title='«В таком формате команда точно уже не будет существовать». Жуковский - о будущем «Ислочи» и своем будущем
+link='https://sport.tut.by/news/football/709685.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/09/1/zhukovskiy_isloch_1.jpg
+guid='https://sport.tut.by/news/football/709685.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 30 Nov 2020 18:39:00 +0300
+}, Item{title='«Прекрасно понимаем, какими способами добываются подписи». Романовская - о письме провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/709663.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/brushko/06/d/romanovskaya_06102020_tutby_brush_phsl_img_-8503.jpg
+guid='https://sport.tut.by/news/aboutsport/709663.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 30 Nov 2020 16:24:00 +0300
+}, Item{title='«Кто их воспитывал? Откуда вот это?» Баскетбольный тренер Крутиков возмущен действиями силовиков
+link='https://sport.tut.by/news/basketball/709635.html?utm_campaign=news-feed
+description='<
+category='Баскетбол
+domain='https://sport.tut.by/rubric/basketball/
+enclosure='null
+url='https://img.tyt.by/n/sport/07/4/belarus-basket-krutikov-2-12-2018.jpg
+guid='https://sport.tut.by/news/basketball/709635.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 30 Nov 2020 13:31:00 +0300
+}, Item{title='Мазуренок: «Министр спорта лишил меня стипендии, которую я заработала каторжным трудом»
+link='https://sport.tut.by/news/athletics/709617.html?utm_campaign=news-feed
+description='<
+category='Легкая атлетика
+domain='https://sport.tut.by/rubric/athletics/
+enclosure='null
+url='https://img.tyt.by/n/sport/0d/9/mazurenok_otkrytaya_trenirovka_20180816_bun_tutby_phsl-2362.jpg
+guid='https://sport.tut.by/news/athletics/709617.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 30 Nov 2020 12:09:00 +0300
+}, Item{title='Замминистра спорта сообщил, что открытое письмо провластных спортсменов подписало около 2500 человек
+link='https://sport.tut.by/news/aboutsport/709565.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0e/d/akciya_kushnir_3.jpg
+guid='https://sport.tut.by/news/aboutsport/709565.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 23:26:00 +0300
+}, Item{title='Минское «Динамо» уступило в гостях ярославскому «Локомотиву»
+link='https://sport.tut.by/news/hockey/707413.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0e/f/dinamo-vityaz_20201126_bur_tutby_phsl-9911.jpg
+guid='https://sport.tut.by/news/hockey/707413.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 19:33:00 +0300
+}, Item{title='Динара Алимбекова стала шестой в спринте на этапе КМ по биатлону
+link='https://sport.tut.by/news/biathlon/709554.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/0b/4/alimbekova_2019_4.jpg
+guid='https://sport.tut.by/news/biathlon/709554.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 16:57:00 +0300
+}, Item{title='Йоханнес Бё выиграл спринт в Контиолахти, четыре белоруса набрали очки
+link='https://sport.tut.by/news/biathlon/709549.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/01/0/johannes_boe_2019.jpg
+guid='https://sport.tut.by/news/biathlon/709549.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 13:48:00 +0300
+}, Item{title='Новый чемпион и всемирная популярность. Чем запомнился 30-й чемпионат Беларуси по футболу
+link='https://sport.tut.by/news/football/708899.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0b/c/bate_shakhter_2020_2.jpg
+guid='https://sport.tut.by/news/football/708899.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 10:03:00 +0300
+}, Item{title='Возвращение легенд! Бой Майка Тайсона и Роя Джонса завершился вничью
+link='https://sport.tut.by/news/box/709537.html?utm_campaign=news-feed
+description='<
+category='Бокс
+domain='https://sport.tut.by/rubric/box/
+enclosure='null
+url='https://img.tyt.by/n/sport/0f/f/tyson_2020.jpg
+guid='https://sport.tut.by/news/box/709537.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 29 Nov 2020 08:40:00 +0300
+}, Item{title='Бразильский легионер бросил в адрес тренера «Витебска» слово «с**а»?
+link='https://sport.tut.by/news/football/708901.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/03/2/o3h2en.mp4
+guid='https://sport.tut.by/news/football/708901.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 21:04:00 +0300
+}, Item{title='Мнение: Беларусь получила слабейшего чемпиона за десятилетие
+link='https://sport.tut.by/news/football/708900.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0d/10/photo_2020-11-28_19-19-24_2_.jpg
+guid='https://sport.tut.by/news/football/708900.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 19:45:00 +0300
+}, Item{title='Вирер выиграла индивидуальную гонку в Контиолахти, Алимбекова - в топ-8
+link='https://sport.tut.by/news/biathlon/709519.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/0d/10/virer_2020.png
+guid='https://sport.tut.by/news/biathlon/709519.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 17:56:00 +0300
+}, Item{title='Милевский объявил об уходе из брестского «Динамо»
+link='https://sport.tut.by/news/football/709516.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/09/c/milevskiy_laptev_dinamo_brest.jpg
+guid='https://sport.tut.by/news/football/709516.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 16:51:00 +0300
+}, Item{title='Вратарь «Шахтера» стал обладателем уникального достижения в чемпионате Беларуси
+link='https://sport.tut.by/news/football/709515.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/10/0/gutor_penalti_neman_brest.jpg
+guid='https://sport.tut.by/news/football/709515.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 16:41:00 +0300
+}, Item{title='Второй раз в истории! «Шахтер» стал чемпионом Беларуси по футболу
+link='https://sport.tut.by/news/football/708141.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/06/d/nniohr_1.mp4
+guid='https://sport.tut.by/news/football/708141.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 15:55:00 +0300
+}, Item{title='Лагрейд сенсационно выиграл первую биатлонную гонку сезона, Смольский - в топ-20
+link='https://sport.tut.by/news/biathlon/709508.html?utm_campaign=news-feed
+description='<
+category='Биатлон
+domain='https://sport.tut.by/rubric/biathlon/
+enclosure='null
+url='https://img.tyt.by/n/sport/0f/0/laegreid.jpg
+guid='https://sport.tut.by/news/biathlon/709508.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 14:40:00 +0300
+}, Item{title='Козеко не взяли на сбор нацкоманды. Фристайлисты написали письмо в его поддержку
+link='https://sport.tut.by/news/freestyle-skiing/709499.html?utm_campaign=news-feed
+description='<
+category='Фристайл
+domain='https://sport.tut.by/rubric/freestyle-skiing/
+enclosure='null
+url='https://img.tyt.by/n/brushko/06/6/romanovskaya_06102020_tutby_brush_phsl_img_-8401.jpg
+guid='https://sport.tut.by/news/freestyle-skiing/709499.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 12:18:00 +0300
+}, Item{title='Стал известен автор письма провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/709497.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/01/f/aed0541b4a11d58d430ccd2283583e43.jpg
+guid='https://sport.tut.by/news/aboutsport/709497.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 11:40:00 +0300
+}, Item{title='СМИ опубликовали, возможно, последнее прижизненное видео с Марадоной
+link='https://sport.tut.by/news/football/709482.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/reuters/0d/8/maradona_bolelshchik_proshchanie.jpg
+guid='https://sport.tut.by/news/football/709482.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 28 Nov 2020 00:17:00 +0300
+}, Item{title='Умер первый руководитель Белорусской ассоциации мини-футбола Виктор Ивановский
+link='https://sport.tut.by/news/football/709470.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/03/2/000028_1606492536_417708_big.jpg
+guid='https://sport.tut.by/news/football/709470.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 27 Nov 2020 19:12:00 +0300
+}, Item{title='Назначен новый спортдиректор федерации хоккея. Он участвовал в провластных автопробегах
+link='https://sport.tut.by/news/hockey/709464.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/00/a/bashko_andrey.jpg
+guid='https://sport.tut.by/news/hockey/709464.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 27 Nov 2020 18:07:00 +0300
+}, Item{title='БАТЭ станет чемпионом, «Динамо» упрется в защиту «Локо», «Атлетико» победит «Баварию». Наши прогнозы
+link='https://sport.tut.by/news/aboutsport/709414.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/os/01/0/atletico_parimatch_giphy_1.gif
+guid='https://sport.tut.by/news/aboutsport/709414.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 27 Nov 2020 15:55:00 +0300
+}, Item{title='Виктор Гончаренко: «Я против, когда омоновцы бьют простой белорусский народ»
+link='https://sport.tut.by/news/aboutsport/709427.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/7/goncharenko_2019.jpg
+guid='https://sport.tut.by/news/aboutsport/709427.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 27 Nov 2020 14:58:00 +0300
+}, Item{title='Самый известный белорусский лыжник отказывается снимать БЧБ-флаг с балкона
+link='https://sport.tut.by/news/aboutsport/709365.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/7/dolidovich-sergei-26-12-2018-1.jpg
+guid='https://sport.tut.by/news/aboutsport/709365.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 27 Nov 2020 09:56:00 +0300
+}, Item{title='Бережков: «Басков предан всему на свете, в том числе своим заблуждениям»
+link='https://sport.tut.by/news/aboutsport/709339.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/06/b/cyplakov_proshchanie_20191029_bur_tutby_phsl-0197.jpg
+guid='https://sport.tut.by/news/aboutsport/709339.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 22:42:00 +0300
+}, Item{title='Ольге Хижинковой дали еще 15 суток ареста
+link='https://sport.tut.by/news/aboutsport/709332.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/04/3/khizhinkova_pitomcy_20200912_bur_tutby_phsl-5852.jpg
+guid='https://sport.tut.by/news/aboutsport/709332.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 19:33:00 +0300
+}, Item{title='Минское «Динамо» выиграло у «Витязя» в овертайме
+link='https://sport.tut.by/news/hockey/707411.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0d/4/dinamo-vityaz_20201126_bur_tutby_phsl-9864.jpg
+guid='https://sport.tut.by/news/hockey/707411.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 19:01:00 +0300
+}, Item{title='«Не могу сказать, что разбираюсь в политике». Антон Кушнир подписал письмо провластных спортсменов
+link='https://sport.tut.by/news/freestyle-skiing/709304.html?utm_campaign=news-feed
+description='<
+category='Фристайл
+domain='https://sport.tut.by/rubric/freestyle-skiing/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0d/9/kushnir_20190211_bur_tutby_phsl-3970.jpg
+guid='https://sport.tut.by/news/freestyle-skiing/709304.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 15:50:00 +0300
+}, Item{title='Посмотрите, как в Аргентине прощаются с Диего Марадоной
+link='https://sport.tut.by/news/football/709290.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0e/b/maradona.mp4
+guid='https://sport.tut.by/news/football/709290.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 14:27:00 +0300
+}, Item{title='Чемпионка мира - о письме провластных спортсменов: «Давно ждала. Потому что, прежде всего, это патриотизм»
+link='https://sport.tut.by/news/aboutsport/709268.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/zamirovskiy/0f/0/06_prokopenko_anastasiya_20180920_zam_tutby_phsl.jpg
+guid='https://sport.tut.by/news/aboutsport/709268.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 11:58:00 +0300
+}, Item{title='«Мать думает, что я лучший. А я никогда не перечу матери». Главные цитаты Диего Марадоны
+link='https://sport.tut.by/news/football/709216.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0a/0/maradona_rtx69fco.jpg
+guid='https://sport.tut.by/news/football/709216.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 10:24:00 +0300
+}, Item{title='Стало известно, что сказал Марадона перед смертью
+link='https://sport.tut.by/news/football/709228.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/06/e/maradona_rtr1zs8s.jpg
+guid='https://sport.tut.by/news/football/709228.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 09:08:00 +0300
+}, Item{title='Экс-футболист сборной Беларуси по футболу Андрей Островский выставил на аукцион майки Клюйверта и Белькевича
+link='https://sport.tut.by/news/football/709214.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/regiony/02/4/pinsk_trener_fond_futbolkii_2020_1.jpg
+guid='https://sport.tut.by/news/football/709214.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 08:05:00 +0300
+}, Item{title='«Боруссия» М разгромила «Шахтер», «Реал» был сильнее «Интера»
+link='https://sport.tut.by/news/football/709215.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0d/2/shakhter-razgrom.jpg
+guid='https://sport.tut.by/news/football/709215.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Thu, 26 Nov 2020 00:52:00 +0300
+}, Item{title='Международный олимпийский комитет начал официальную процедуру против НОК Беларуси
+link='https://sport.tut.by/news/aboutsport/709206.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0b/4/ioc_1.jpg
+guid='https://sport.tut.by/news/aboutsport/709206.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 22:15:00 +0300
+}, Item{title='Как футбольный мир отреагировал на смерть Марадоны
+link='https://sport.tut.by/news/football/709202.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0f/8/maradona_brest_2018_1_10.jpg
+guid='https://sport.tut.by/news/football/709202.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 20:25:00 +0300
+}, Item{title='Умер Диего Марадона, в Аргентине объявлен трехдневный траур
+link='https://sport.tut.by/news/football/709199.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/07/f/maradona_brest_2018_1_6.jpg
+guid='https://sport.tut.by/news/football/709199.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 19:28:00 +0300
+}, Item{title='Суд оставил в силе решения по Ольге Хижинковой. Жалобы не помогли
+link='https://sport.tut.by/news/aboutsport/709139.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/09/4/khizhinkova_titulnoe.png
+guid='https://sport.tut.by/news/aboutsport/709139.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 12:40:00 +0300
+}, Item{title='Матч, который может определить чемпиона Беларуси по футболу, пройдет без зрителей
+link='https://sport.tut.by/news/football/709120.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/05/1/bate_dinamo_24052020_tutby_brush_phsl_2.jpg
+guid='https://sport.tut.by/news/football/709120.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 11:15:00 +0300
+}, Item{title='«Барселона» без Месси разгромила киевское «Динамо», «Зенит» проиграл «Лацио»
+link='https://sport.tut.by/news/football/709072.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/10/2/dzyuba-zenit.jpg
+guid='https://sport.tut.by/news/football/709072.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Wed, 25 Nov 2020 00:55:00 +0300
+}, Item{title='Герасименя прокомментировала открытое письмо провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/709058.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0a/f/gerasimenya-sos_1.jpg
+guid='https://sport.tut.by/news/aboutsport/709058.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 24 Nov 2020 19:59:00 +0300
+}, Item{title='Минское «Динамо» выиграло в овертайме у «Локомотива»
+link='https://sport.tut.by/news/hockey/707410.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/buryakina/0a/d/dinamo-loko_20201124_bur_tutby_phsl-9687.jpg
+guid='https://sport.tut.by/news/hockey/707410.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 24 Nov 2020 19:06:00 +0300
+}, Item{title='Стало известно, кто подписал открытое письмо провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/709010.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/01/f/aed0541b4a11d58d430ccd2283583e43.jpg
+guid='https://sport.tut.by/news/aboutsport/709010.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 24 Nov 2020 15:32:00 +0300
+}, Item{title='Опубликовано открытое письмо провластных спортсменов
+link='https://sport.tut.by/news/aboutsport/708981.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/10/e/5-provlastnyy_miting_nezavisimosti_minsk_19102020.jpg
+guid='https://sport.tut.by/news/aboutsport/708981.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 24 Nov 2020 12:30:00 +0300
+}, Item{title='Президент ФХР Третьяк высказался о возможном переносе ЧМ-2021 в Россию
+link='https://sport.tut.by/news/hockey/708939.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/05/1/tretyak_vladislav_2014.jpg
+guid='https://sport.tut.by/news/hockey/708939.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Tue, 24 Nov 2020 09:27:00 +0300
+}, Item{title='Латвийская федерация хоккея: Возможное участие Баскова в репрессиях не соответствует принципам морали
+link='https://sport.tut.by/news/hockey/708916.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/03/5/baskov-dmitri-2019-1.jpg
+guid='https://sport.tut.by/news/hockey/708916.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 21:34:00 +0300
+}, Item{title='Домрачев прокомментировал штраф и рассказал о тяжелых последствиях задержания
+link='https://sport.tut.by/news/aboutsport/708914.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0a/3/nikita-foto-domrachev.jpg
+guid='https://sport.tut.by/news/aboutsport/708914.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 20:00:00 +0300
+}, Item{title='«Не видел, чтобы его били». Брата Домрачевой признали виновным в участии в акции
+link='https://sport.tut.by/news/aboutsport/708820.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/02/10/nikita-domrachev-poboi-1.jpg
+guid='https://sport.tut.by/news/aboutsport/708820.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 18:02:00 +0300
+}, Item{title='Убегавший от силовиков мужчина прыгнул в воду, но его вытащили. Это был известный легкоатлет
+link='https://sport.tut.by/news/aboutsport/708858.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/0c/4/minchanin_prygnul_v_svisloch_22_noyabrya_online_video_cutter_com_1.mp4
+guid='https://sport.tut.by/news/aboutsport/708858.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 15:30:00 +0300
+}, Item{title='Болельщики во время гимна повернулись спиной к полю и заложили руки за голову. Их доставили в РУВД
+link='https://sport.tut.by/news/football/708794.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0c/a/bolely1.jpg
+guid='https://sport.tut.by/news/football/708794.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 10:00:00 +0300
+}, Item{title='Российский теннисист победил на итоговом турнире ATP и установил новый рекорд
+link='https://sport.tut.by/news/tennis/708785.html?utm_campaign=news-feed
+description='<
+category='Теннис
+domain='https://sport.tut.by/rubric/tennis/
+enclosure='null
+url='https://img.tyt.by/n/sport/0a/9/daniil-medvedev-3-07-2017-1.jpg
+guid='https://sport.tut.by/news/tennis/708785.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 09:14:00 +0300
+}, Item{title='«Жыве белорус». Вот с какой обложкой вышла сегодня российская спортивная газета
+link='https://sport.tut.by/news/football/708784.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/0a/b/zhyve_1.jpg
+guid='https://sport.tut.by/news/football/708784.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Mon, 23 Nov 2020 09:01:00 +0300
+}, Item{title='Второй раз за сезон! Посмотрите, как игрок БАТЭ забивает гол прямым ударом с углового
+link='https://sport.tut.by/news/football/708140.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/7/muk_bate.gif
+guid='https://sport.tut.by/news/football/708140.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 22 Nov 2020 22:14:00 +0300
+}, Item{title='Брестское «Динамо» не защитит титул ни при каких обстоятельствах
+link='https://sport.tut.by/news/football/708139.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/04/5/deni_laptev_brest_dinamo.jpg
+guid='https://sport.tut.by/news/football/708139.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 22 Nov 2020 19:38:00 +0300
+}, Item{title='Без осечек. Чемпион Беларуси по футболу может определиться в последнем туре, не исключен «золотой» матч
+link='https://sport.tut.by/news/football/708138.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/10/f/video_2020-11-23_09-25-19.mp4
+guid='https://sport.tut.by/news/football/708138.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sun, 22 Nov 2020 15:50:00 +0300
+}, Item{title='«Гомель» возвращается в элиту, начиная Первую лигу с -5-ю очками. «Крумкачы» сыграют переходные матчи
+link='https://sport.tut.by/news/football/708711.html?utm_campaign=news-feed
+description='<
+category='Футбол
+domain='https://sport.tut.by/rubric/football/
+enclosure='null
+url='https://img.tyt.by/n/sport/06/2/khimik_gomel_1.jpg
+guid='https://sport.tut.by/news/football/708711.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 21 Nov 2020 20:38:00 +0300
+}, Item{title='Минское «Динамо» проиграло дома московскому ЦСКА
+link='https://sport.tut.by/news/hockey/707409.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/01/d/dinamo-cska_20201020_bur_tutby_phsl-8614.jpg
+guid='https://sport.tut.by/news/hockey/707409.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 21 Nov 2020 16:59:00 +0300
+}, Item{title='Вице-президент ИИХФ выступил за перенос ЧМ-2021 по хоккею из Минска
+link='https://sport.tut.by/news/hockey/708702.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/zamirovskiy/07/1/29_khokkey_belarus_latviya_zam_tutby_phsl.jpg
+guid='https://sport.tut.by/news/hockey/708702.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 21 Nov 2020 14:32:00 +0300
+}, Item{title='«Причина бесхребетного поведения - деньги». Европейские СМИ жестко высказались о ЧМ по хоккею в Минске
+link='https://sport.tut.by/news/hockey/708696.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/zamirovskiy/10/b/21_khokkey_belarus_rossiya_zam_tutby_phsl.jpg
+guid='https://sport.tut.by/news/hockey/708696.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Sat, 21 Nov 2020 11:29:00 +0300
+}, Item{title='«После того как охранник ударил, возникло желание заржать». Кикбоксер Иван Ганин отсидел 10 суток
+link='https://sport.tut.by/news/aboutsport/708668.html?utm_campaign=news-feed
+description='<
+category='Околоспорт
+domain='https://sport.tut.by/rubric/aboutsport/
+enclosure='null
+url='https://img.tyt.by/n/sport/02/e/ganin-logo_1.jpg
+guid='https://sport.tut.by/news/aboutsport/708668.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 20 Nov 2020 19:09:00 +0300
+}, Item{title='Фетисов высказался о возможном переносе ЧМ-2021 из Минска в Москву
+link='https://sport.tut.by/news/hockey/708613.html?utm_campaign=news-feed
+description='<
+category='Хоккей
+domain='https://sport.tut.by/rubric/hockey/
+enclosure='null
+url='https://img.tyt.by/n/sport/06/c/fetisov-1.jpeg
+guid='https://sport.tut.by/news/hockey/708613.html?utm_campaign=news-feed
+isPermaLink='true
+pubDate='Fri, 20 Nov 2020 14:22:00 +0300
+}]
