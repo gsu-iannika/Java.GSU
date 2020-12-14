@@ -161,7 +161,6 @@ public class WeatherWidget {
 
 
     public String getWidgetHtml() {
-        String paragraphCloseTag = "</p>\n";
         return "<h1>Weather in " + city + ", " + country + "</h1>\n" +
                 "<img src=https://openweathermap.org/img/w/" + iconId + ".png alt=" + "</p>\n" +
                 "<p>Brief description of the weather: " + shortDescription + "</p>\n" +
