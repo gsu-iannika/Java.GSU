@@ -1,0 +1,79 @@
+package com.by.gsu.pms.controller;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.by.gsu.pms.entity.Flight;
+import com.by.gsu.pms.model.FlightModel;
+import com.by.gsu.pms.service.FlightService;
+import com.by.gsu.pms.validation.FlightNotAvailableException;
+import com.by.gsu.pms.validation.InvalidFlightDetailsException;
+import com.by.gsu.pms.validation.UserNotFoundException;
+import com.by.gsu.pms.validation.Validation;
+
+@RestController
+@RequestMapping("/flights")
+public class FlightController {
+
+
+	@Autowired
+	FlightService flightService;
+
+	@Autowired
+	Validation validation;
+
+
+	@PostMapping("/searchFlights")
+	public ResponseEntity<?> searchFlights(@RequestBody FlightModel model)
+	{
+		List<Flight> flights =  new ArrayList<>();
+
+		try 
+		{
+			validation.validateFlightDetails(model);
+			flights = flightService.searchFlights(model);
+
+		} 
+		catch (InvalidFlightDetailsException | FlightNotAvailableException e) {
+			return new ResponseEntity<>("Invalid Entry : "+e.getMessage(),HttpStatus.BAD_REQUEST);
+		}
+
+		return new ResponseEntity<>(flights,HttpStatus.OK);
+
+	}
+
+
+
+	@PostMapping("/add")
+	public ResponseEntity<String> addFlight(@RequestParam(value="userId") Long userId, @RequestBody FlightModel flightModel) throws SQLException {
+
+		try {
+			validation.validateAddFlightDetails(flightModel);
+
+			if(validation.validateUserRole(userId))
+			{
+				String requestToAddFlight = flightService.requestToAddFlight(flightModel, userId);
+
+				return new ResponseEntity<String>(requestToAddFlight, HttpStatus.OK);
+
+			}
+			else
+			{
+				return new ResponseEntity<String>("You don't have rights to add new flight ", HttpStatus.OK);
+			}
+		} catch (InvalidFlightDetailsException | UserNotFoundException e) {
+			return new ResponseEntity<>("Invalid request : "+e.getMessage(),HttpStatus.BAD_REQUEST);
+		}
+
+	}
+}

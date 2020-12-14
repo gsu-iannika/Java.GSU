@@ -1,0 +1,115 @@
+package com.by.gsu.pms.validation;
+
+import java.time.LocalDate;
+import java.util.Optional;
+
+import org.codehaus.plexus.util.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.util.ObjectUtils;
+
+import com.by.gsu.pms.entity.Flight;
+import com.by.gsu.pms.entity.User;
+import com.by.gsu.pms.model.FlightModel;
+import com.by.gsu.pms.repo.FlightRepository;
+import com.by.gsu.pms.service.UserService;
+import com.by.gsu.pms.utils.OptionalUtils;
+
+@Component
+public class Validation {
+	
+	@Autowired
+	UserService userService;
+
+	private final static String ERR_MSG = " INVALID DATA, MISSING PARAMETER : ";
+
+	public boolean validateFlightByAvailableSeats(Integer availableSeats , Integer requestedSeats) {
+
+		if(availableSeats !=  null && requestedSeats != null && availableSeats >= requestedSeats) {
+			return true;
+		}
+		return false;
+	}
+
+
+	public boolean validateUser(String userName , String password) {
+
+		if(userName != null && password != null) {
+			return true;
+		}
+
+		return false;
+	}
+
+	public boolean validateUserRole(Long userId) throws UserNotFoundException {
+		
+		Optional<User> userOptional = userService.getUserFromRepo(userId);
+		User user = (User) OptionalUtils.checkOptional(userOptional);
+		
+		if(ObjectUtils.isEmpty(user)) 
+		{
+			throw new UserNotFoundException("User entry is not found.....");
+		}
+		else
+		{
+			if (user.getRole().equals("Admin")) 
+				return true;
+		}
+		return false;
+	}
+
+	public void validateAddFlightDetails(FlightModel flightModel) throws InvalidFlightDetailsException {
+
+		if (StringUtils.isEmpty(flightModel.getSource())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" SOURCE");
+		}
+		if (StringUtils.isEmpty(flightModel.getDestination())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" DESTINATION");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getAvailableSeats().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" AVAILABLE SEATS");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getArrival().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" ARRIVAL");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getDeparture().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" DEPARTURE");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getFare().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" FARE");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getFlightNumber().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" FLIGHT NUMBER");
+
+		}
+
+		if (StringUtils.isEmpty(flightModel.getTotalSeats().toString())) {
+			throw new InvalidFlightDetailsException(ERR_MSG+" TOTAL SEATS");
+		}
+	}
+	
+	public void validateFlightDetails(FlightModel flightModel) throws InvalidFlightDetailsException
+	{
+		if(StringUtils.isEmpty(flightModel.getSource()))
+			throw new InvalidFlightDetailsException(ERR_MSG+" SOURCE");
+
+		if(StringUtils.isEmpty(flightModel.getDestination()))
+			throw new InvalidFlightDetailsException(ERR_MSG+" DESTINATION");
+
+		if(StringUtils.isEmpty(flightModel.getFlightDate().toString()))
+			throw new InvalidFlightDetailsException(ERR_MSG+" Flight Date");
+
+		if(flightModel.getFlightDate().isBefore(LocalDate.now()))
+			throw new InvalidFlightDetailsException(" You have enter Invalid Flight Date");
+	}
+}
