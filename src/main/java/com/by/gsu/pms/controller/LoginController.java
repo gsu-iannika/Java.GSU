@@ -81,16 +81,6 @@ public class LoginController {
 			}
 		}
 
-//		try {
-//			// get your file as InputStream
-//			InputStream is = new CharSequenceInputStream(rb.buildReportString(), "UTF-8");
-//			// copy it to response's OutputStream
-//			org.apache.commons.io.IOUtils.copy(is, response.getOutputStream());
-//			response.setContentType("text/csv;charset=utf-8");
-//			response.flushBuffer();
-//		} catch (IOException ex) {
-//			throw new RuntimeException("IOError writing file to output stream");
-//		}
 
 	}
 
