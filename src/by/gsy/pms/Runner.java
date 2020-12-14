@@ -29,7 +29,7 @@ public class Runner {
         SqlCommands sqlCommands = new SqlCommands(conn);
 
         System.out.println(sqlCommands.displayInformationAboutSouvenirs(5));
-        System.out.println(sqlCommands.displayInformationAboutSouvenirsInTheProducedCountry("Белоруссия"));
+        System.out.println(sqlCommands.displayInformationAboutSouvenirsInTheProducedCountry("Беларусь"));
         System.out.println(sqlCommands.displayInfoAboutManufacturerWithLowerPrice(15));
 
 
