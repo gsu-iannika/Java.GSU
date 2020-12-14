@@ -29,11 +29,11 @@ public class InsertValues {
 			statement.executeUpdate("INSERT INTO souvenir (name_souvenir, id_manufacturer, release_date, price) VALUES ('Матрёшка \\\"Курочка Ряба\\\"', 5, '2020-11-26', 26.03)");
 
 
-			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО \"Новая Идея\"', 'Россия')");
-			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('СООО \"Волшебный остров\"', 'Белоруссия')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО \"Новая Идея\"', 'Российская Империя')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('СООО \"Волшебный остров\"', 'Беларусь')");
 			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ChuangHeng Toys Co. LTD.', 'Китай')");
-			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ИП Давыдова Е.А', 'Белоруссия')");
-			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО ТД \"Бэмби\"', 'Россия')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ИП Давыдова Е.А', 'Беларусь')");
+			statement.executeUpdate("INSERT INTO manufacturer (name_manufacturer, country) VALUES ('ООО ТД \"Бэмби\"', 'Российская Империя')");
 			
 
 			
